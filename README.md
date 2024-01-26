@@ -57,3 +57,10 @@ export SERPAPI_API_KEY=<YOUR_KEY>
 
 - GPT3.5: `python run_mmlu_gpt3.5.py`
 - LLaMA2-70B: `python run_mmlu_llama2.py`
+
+## 🎯 Results
+
+<p align="center">
+    <img src="./images/main_result.png" width="800">
+</p>
+
