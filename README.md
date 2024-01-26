@@ -64,3 +64,15 @@ export SERPAPI_API_KEY=<YOUR_KEY>
     <img src="./images/main_result.png" width="800">
 </p>
 
+
+## Citation
+```
+@misc{han2024towards,
+      title={Towards Uncertainty Aware Language Agent}, 
+      author={Jiuzhou Han and Wray Buntine and Ehsan Shareghi},
+      year={2024},
+      eprint={},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
