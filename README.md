@@ -70,11 +70,11 @@ The uala setting here is UALA-S+Backoff, to use Oracle, set the `oracle` variabl
 
 ## Citation
 ```
-@misc{han2024towards,
-      title={Towards Uncertainty Aware Language Agent}, 
+@misc{han2024uncertaintyaware,
+      title={Towards Uncertainty-Aware Language Agent}, 
       author={Jiuzhou Han and Wray Buntine and Ehsan Shareghi},
       year={2024},
-      eprint={},
+      eprint={2401.14016},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
