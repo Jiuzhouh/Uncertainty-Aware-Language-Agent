@@ -16,7 +16,7 @@ This is the official repo for the paper: [Towards Uncertainty-Aware Language Age
 </p>
 
 <!-- set larger font size for the following text-->
-<p style="font-size:1.0rem">
+<p>
 Language Agents utilising Large Language Models to interact with the external world (e.g., through tools) to process collected observations towards solving a task have achieved great improvements in challenging reasoning tasks. A more effective design for language agents should have a better interplay between the implicit knowledge encoded in LLM's weight and the explicit knowledge of the external world. To this end, we present Uncertainty-Aware Language Agent that integrates uncertainty in language agent's cycle of Thought, Action, and Observation. The uncertainty moderates the interaction between the LLM and the external world, facilitating a more effective and efficient dynamic.
 </p>
 
