@@ -59,6 +59,7 @@ export SERPAPI_API_KEY=<YOUR_KEY>
 - LLaMA2-70B: `python run_mmlu_llama2.py`
 
 For different settings (standard, cot, react, uala), change the `mode` variable in script.
+The uala setting here is UALA-S+Backoff, to use Oracle, set the `oracle` variable in script as `True`.
 
 ## 🎯 Results
 
