@@ -9,12 +9,10 @@ This is the official repo for the paper: [Towards Uncertainty-Aware Language Age
     </a>
 </p>
 
-![teaser](./images/uala_framework.png)
-
 ## 💡 Introduction
 
 <p align="center">
-    <img src="./images/uala_framework.png" width="1000">
+    <img src="./images/uala_framework.png" width="800">
 </p>
 
 <!-- set larger font size for the following text-->
@@ -30,6 +28,7 @@ Language Agents utilising Large Language Models to interact with the external wo
 </p>
 
 ## 🛠️ Setup
+Configure Environment:
 ```
 pip install -r requirements.txt
 ```
