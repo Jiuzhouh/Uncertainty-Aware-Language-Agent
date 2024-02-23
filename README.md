@@ -1,5 +1,5 @@
 # Towards Uncertainty Aware Language Agent
-This is the official repo for the paper: [Towards Uncertainty-Aware Language Agent](https://arxiv.org/abs/2401.14016).
+This is the official repo for the paper: [Towards Uncertainty-Aware Language Agent](https://arxiv.org/pdf/2401.14016.pdf).
 <p>
     <a href="https://github.com/Jiuzhouh/Uncertainty-Aware-Language-Agent/tree/main/data">
         <img alt="Question Answering" src="https://img.shields.io/badge/Task-Question%20Answering-red">
